@@ -1,4 +1,6 @@
-Machine learning engineer nanodegree Capstone_ProjectAuthor: Musa Mikail
+Machine learning engineer nanodegree Capstone_Project
+
+Author: Musa Mikail
 
 ##Summary##
 This repository documents my final capstone project  submitted to udacity for the completion of the machine learning engineer nanodegree that I completed on 30th June 2019.
