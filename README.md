@@ -2,10 +2,10 @@ Machine learning engineer nanodegree Capstone_Project
 
 Author: Musa Mikail
 
-#Summary#
+Summary
 This repository documents my final capstone project  submitted to udacity for the completion of the machine learning engineer nanodegree that I completed on 30th June 2019.
 
-##Objective:##
+Objective:
 Develop and deploy a malaria diagnostic system based on a convolution neural network model.
 
 Tool and libraries:
@@ -18,7 +18,7 @@ Tool and libraries:
 - base model: VGGNet-Simonyan et al: https://arxiv.org/pdf/1409.1556.pdf?source=post_page
 OpenCV algorithm for edge detection: Canny Edge Detector: https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html
 
-##Dataset##
+Dataset
 Malaria Dataset: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
  — ---------------------------
