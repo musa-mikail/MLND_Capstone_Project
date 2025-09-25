@@ -1,21 +1,21 @@
 Machine learning engineer nanodegree Capstone_Project
 
-🧠 Malaria Diagnosis with AI – Capstone Project
+Malaria Diagnosis with AI – Capstone Project
 Author: Musa Mikail
 Program: Machine Learning Engineer Nanodegree
 Date: July 2019
 
-📌 Project Overview
+Project Overview
 This project aims to develop i-mal, a Windows PC application that uses machine learning to assist in the diagnosis of malaria from microscopic blood smear images. The goal is to improve diagnostic accuracy and accessibility, especially in rural areas of northern Nigeria.
 
-🌍 Domain Background
+Domain Background
 Malaria remains a major health challenge in Nigeria, with millions of cases and thousands of deaths annually. Traditional diagnosis relies on manual inspection of blood cells, which is labor-intensive and prone to human error. AI offers a scalable solution to enhance diagnostic precision.
 
-🎯 Problem Statement
+Problem Statement
 Develop a user-friendly application that:
 
-Detects malaria-infected cells using a CNN-based binary classifier.
-Counts total red blood cells using edge detection.
+* Detects malaria-infected cells using a CNN-based binary classifier.
+* Counts total red blood cells using edge detection.
 Calculates parasitemia (%P) to aid diagnosis.
 🧪 Dataset
 Source: U.S. National Library of Medicine
