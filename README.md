@@ -16,31 +16,23 @@ Develop a user-friendly application that:
 
 * Detects malaria-infected cells using a CNN-based binary classifier.
 * Counts total red blood cells using edge detection.
-Calculates parasitemia (%P) to aid diagnosis.
-🧪 Dataset
+* Calculates parasitemia (%P) to aid diagnosis.
+
+Dataset
 Source: U.S. National Library of Medicine
 27,558 labeled PNG images (balanced: 13,780 parasitized, 13,780 uninfected)
 75% for training, 25% for validation/testing
-🛠️ Solution Approach
+
+Solution Approach
 Preprocessing: Image scaling, rotation, augmentation
 Model: CNN (VGGNet architecture), benchmarked against a vanilla ANN
-Training: Amazon SageMaker
+
 Deployment: PyQt-based GUI with OpenCV for edge detection
-Output: % of infected cells (parasitemia)
-📊 Evaluation Metrics
+
+Evaluation Metrics
 Binary Classifier Accuracy (Ab)
 Edge Detection Accuracy (Ac)
 Overall System Accuracy (A = Ac × Ab)
-🧱 Project Design
-CNN model built with TensorFlow & Keras
-GUI for image upload, visualization, and inference
-Separate evaluation of classifier and cell counter performance
-📈 Benchmark
-Compare CNN performance against a basic ANN
-Use accuracy as the primary metric due to balanced dataset
-
-Objective:
-Develop and deploy a malaria diagnostic system based on a convolution neural network model.
 
 Tool and libraries:
 - Language: python 3.7
